@@ -1,0 +1,8 @@
+GROUP - 2 
+ASSIGNMENT - 3
+
+FRONTEND - Aditya Ruhela
+
+DATABASE MANAGEMENT - Gulshan Kumar Dewangan
+
+BACKEND - Abhik Dey & Akash Yadav
